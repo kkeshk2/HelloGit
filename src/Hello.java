@@ -20,6 +20,8 @@ public class Hello {
 		
 		System.out.println("Ali Keshk");
 		System.out.println("Computer Science");
+		
+		System.out.println("Test");
 	}
 
 }
